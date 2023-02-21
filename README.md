@@ -18,6 +18,13 @@ run code
 
     npm start
     
-call contract
+call contract. 
+num and addrInd are option.
 
-    npm run call
+    npm run call <num> <addrInd>
+    
+  
+    
+to see num
+
+    npm run get
