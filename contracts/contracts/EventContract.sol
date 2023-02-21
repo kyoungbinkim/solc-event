@@ -12,4 +12,8 @@ contract EventContract {
         num += up;
         emit Click(msg.sender, num);
     }
+
+    function getNum() public view returns(uint) {
+        return num;
+    }
 }

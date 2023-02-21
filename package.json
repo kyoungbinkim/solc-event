@@ -6,6 +6,8 @@
   "type": "module",
   "scripts": {
     "start" : "node index.js",
+    "call" : "node usr.js 1",
+    "get" : "node usr.js 2",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
