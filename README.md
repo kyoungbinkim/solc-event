@@ -28,3 +28,6 @@ num and addrInd are option.
 to see num
 
     npm run get
+
+
+<img alt="demo" src="solc-event.gif" >
