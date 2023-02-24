@@ -1,5 +1,5 @@
 # solc-event
-solidity event test
+solidity event example
 
 install package 
 
